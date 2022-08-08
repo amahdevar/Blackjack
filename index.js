@@ -21,7 +21,6 @@ function renderGame() {
     cardsEl.textContent += cards[i] + " "
 
     }
-
         if (sum <= 20) {
         message = "Do you want to draw another card?";
         
@@ -44,3 +43,6 @@ function newCard() {
     cards.push(card)
     renderGame();
 }
+
+
+let test = 9
