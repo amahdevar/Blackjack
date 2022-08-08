@@ -46,3 +46,4 @@ function newCard() {
 
 
 let test = 9
+test = 12
