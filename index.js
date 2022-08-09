@@ -43,7 +43,3 @@ function newCard() {
     cards.push(card)
     renderGame();
 }
-
-// laptop test commit final
-// why its not working wtf
-//nothingthis sdfsdf asdadsa
