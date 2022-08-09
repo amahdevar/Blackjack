@@ -44,6 +44,6 @@ function newCard() {
     renderGame();
 }
 
-
-let test = 9
-test = 12
+// laptop test commit final
+// why its not working wtf
+//nothingthis sdfsdf asdadsa
